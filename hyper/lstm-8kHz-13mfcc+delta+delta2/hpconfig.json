@@ -1,0 +1,1 @@
+{"exp": "lstm-8kHz-13mfcc+delta+delta2", "hp_max_evals": 50, "hp_method": "random", "seed": 84948631, "instances_per_trial": 3, "mfcc": true, "d": true, "dd": true, "n_mfcc": 13, "hp_space": {"ridge": ["loguniform", 1e-08, 1.0], "lr": ["loguniform", 1e-05, 0.1]}}
